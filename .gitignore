@@ -1,0 +1,13 @@
+node_modules
+.env
+.agents
+dist
+.vscode
+.idea
+.DS_Store
+.agent
+.agentignore
+count_loc.js
+test_blood_bank.js
+test_blood_camps.js
+*.pdf
