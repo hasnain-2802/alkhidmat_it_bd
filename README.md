@@ -374,20 +374,6 @@ Rather than requiring donors to log in to respond to emergency alerts, each emai
 
 ---
 
-## 👩‍💻 Team
-
-| Member | Role |
-|--------|------|
-| Rounak Choudhary | Backend & Database Lead |
-| Rahul Bishnoi | Requirements Alpha Manager & Backend |
-| Priyam Patel | Work & Team Alpha Manager |
-| Teenu Kumari | Customer Alpha Manager |
-
-*Branching strategy: feature branches → PR review → merge to `main`.*  
-*MVC directory structure standardised across all team members from Sprint 1.*
-
----
-
 ## 📚 Resources
 
 - [SRS v2.2](https://drive.google.com/file/d/1Kkm7wSxr37vrIVnnJfeyL3WPR3Wh6VRB/view?usp=drive_link)
